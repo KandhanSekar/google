@@ -1,7 +1,9 @@
 
 class Solution {
-    public int solution(int X) {
-        String s;
+  
+  public int solution(int X) {
+ 
+       String s;
         StringBuilder sb = new StringBuilder();
         s = Integer.toString(X);
         int num1 = 0, num2 = 0;
